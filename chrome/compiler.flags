@@ -1,0 +1,4 @@
+--language_in=ECMASCRIPT6
+--externs=externs.js
+--manage_closure_dependencies
+--js build/deps.js
